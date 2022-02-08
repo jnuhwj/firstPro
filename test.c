@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("compile and run success!\n");
+	printf("2022 compile and run success!\n");
 
 	return 0;
 }
